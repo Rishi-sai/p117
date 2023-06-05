@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(170, 240, 207);
+}
+
+#score {
+    font-size: 24px;
+    margin-right: 880px;
+}
+
+#timer {
+    font-size: 24px;
+    margin-right: 150px;
+    float: right;
+}
+
+#s2d {
+    color: rgb(248, 0, 83);
+    font-size: 32px;
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.close{
+    margin-left: 800px;
+}
